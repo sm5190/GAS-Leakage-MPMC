@@ -1,0 +1,27 @@
+Limitations:
+1.The gas sensor used in this implementation is MQ5 which is highly sensitive to H2, LPG, CH4, CO only . Due to its high sensitivity and fast response time, measurements can be taken as soon as possible.But it cannot detect alcohol vapour,liquified gas for which other sensors like MQ2, MQ5 can be used.
+ 
+2. The GSM module SIM900A delivers GSM/GPRS 900/1800MHz performance for voice, SMS, Data, and Fax in a small form factor and with low power consumption. For using at higer range the GSM module can be updated or increased in number so that the alerting multiple users can be done in at greater range.
+
+3. Since our prototype is not built to withstand tough conditions
+one may conclude that it is a product more geared towards home and stationary conditions only.
+
+4.Same circuit configuration can be used to detect smoke for working as fire alarm.But our MQ5 gas sensor doesnot have much smoke sensitivity. For smoke detection, SD302 Smoke Detector
+can be used.
+
+
+Future Scope:
+
+Overall,  software  and  hardware  parts  of  the  systems  have  been  developed  and  tested  by  introducing a small amount of LPG near gas sensor module.We can also include  multi  functions  with  this  device. Such as:
+
+1. One  of  the  notable  future  functions  of  this  system is to add a sub system where wastage of gas and the uses of gas can be monitored using this system. 
+
+2.The system is flexible as a greater number of sensors and relays can be added to it according to  the  whole  LPG  supply  setup  in  those  premises. 
+
+3. The  author  is  adding  more  software  based  intelligent functions with this system. 
+
+4.This is an automatic gas detection, control and alert system. In future  this  system  will  have  a  feature  where  it  can  notify  the  emergency  services  if  any  accidents  happen.
+5. A mobile app and web-based app for real time monitoring also will be added. In the user app  for  this  system  many  smart  features  will  be  added.  
+
+6.The  overall  features  will  make  the  system  more safe for the users. The system will be optimized for use in many places like the car, the home, industries  and  many  other  places. 
+7. After  designing  the  final  prototype  with  smart  multifunctional  features,  the  system  will  be  implemented  in  real  life  scenarios  as  a  pilot  project.  
